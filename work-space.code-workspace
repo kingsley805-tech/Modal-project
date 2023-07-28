@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../work space"
+		},
+		{
+			"path": "../dash learber"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modal project",
+		"liveServer.settings.port": 5501
+	}
+}
